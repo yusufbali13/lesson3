@@ -2,5 +2,5 @@ limonata tarifi:
 
 1. Limom
 2. Su
-3. 1 kup Seker
+3. 1 kup Seker conflict
 4. Nane
